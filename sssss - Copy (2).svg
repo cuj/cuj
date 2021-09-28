@@ -85,7 +85,7 @@
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 				<script>alert(1)</script>
-				<h1 style="font-size:20vw">Hello World</h1>
+				<h1 style="font-size:620vw">Hello World</h1>
 			</div>
 		</div>
 	</foreignObject>
