@@ -4,5 +4,5 @@
             <circle cx="250" cy="125" r="125" fill="#FFFFFF" />
         </clipPath>
     </defs>
-    <image width="500" height="250" xlink:href="https://www.amrita.edu/sites/default/files/news-images/new/news-events/images/l-nov/grass.jpg"/>
+    <image width="500" height="250" href="https://www.amrita.edu/sites/default/files/news-images/new/news-events/images/l-nov/grass.jpg"/>
  </svg>
