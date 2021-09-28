@@ -84,6 +84,7 @@
 			<div class="container">
 				<h1>a</h1>
 				<p>Click to see the source</p>
+				<img src="https://google.com/favicon.ico">
 				<script>alert(1)</script>
 			</div>
 		</div>
